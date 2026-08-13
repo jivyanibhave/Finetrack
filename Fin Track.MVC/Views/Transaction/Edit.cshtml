@@ -1,0 +1,48 @@
+﻿@model Fin_Track.MVC.DTOs.TransactionResponseDto
+
+<h2>Edit Transaction</h2>
+
+<form asp-action="Edit" method="post">
+
+    <input asp-for="TransactionId" type="hidden" />
+
+    <div class="mb-3">
+        <label asp-for="Amount"></label>
+        <input asp-for="Amount"
+               class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Description"></label>
+        <input asp-for="Description"
+               class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="TransactionDate"></label>
+        <input asp-for="TransactionDate"
+               type="date"
+               class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Type"></label>
+        <select asp-for="Type"
+                class="form-control">
+            <option value="Income">Income</option>
+            <option value="Expense">Expense</option>
+        </select>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="CategoryId"></label>
+        <input asp-for="CategoryId"
+               class="form-control" />
+    </div>
+
+    <button type="submit"
+            class="btn btn-primary">
+        Update
+    </button>
+
+</form>

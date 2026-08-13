@@ -1,0 +1,60 @@
+﻿@model List<Fin_Track.MVC.DTOs.BudgetVMResponseDTO>
+
+@{
+    ViewData["Title"] = "Budgets";
+}
+
+<h2>Budget List</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">
+        Add Budget
+    </a>
+</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Budget Id</th>
+            <th>Limit Amount</th>
+            <th>Spent Amount</th>
+            <th>Remaining Amount</th>
+            <th>Start Date</th>
+            <th>End Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.BudgetId</td>
+                <td>@item.LimitAmount</td>
+                <td>@item.SpentAmount</td>
+                <td>@item.RemainingAmount</td>
+                <td>@item.StartDate.ToShortDateString()</td>
+                <td>@item.EndDate.ToShortDateString()</td>
+                <td>
+                    <a asp-action="Details"
+                       asp-route-id="@item.BudgetId"
+                       class="btn btn-info">
+                        Details
+                    </a>
+
+                    <a asp-action="Edit"
+                       asp-route-id="@item.BudgetId"
+                       class="btn btn-warning">
+                        Edit
+                    </a>
+
+                    <a asp-action="Delete"
+                       asp-route-id="@item.BudgetId"
+                       class="btn btn-danger">
+                        Delete
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

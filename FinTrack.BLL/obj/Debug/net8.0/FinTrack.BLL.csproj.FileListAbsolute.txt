@@ -1,0 +1,15 @@
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.BLL\bin\Debug\net8.0\FinTrack.BLL.deps.json
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.BLL\bin\Debug\net8.0\FinTrack.BLL.dll
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.BLL\bin\Debug\net8.0\FinTrack.BLL.pdb
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.BLL\bin\Debug\net8.0\FinTrack.DAL.dll
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.BLL\bin\Debug\net8.0\FinTrack.DAL.pdb
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.BLL\obj\Debug\net8.0\FinTrack.BLL.csproj.AssemblyReference.cache
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.BLL\obj\Debug\net8.0\FinTrack.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.BLL\obj\Debug\net8.0\FinTrack.BLL.AssemblyInfoInputs.cache
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.BLL\obj\Debug\net8.0\FinTrack.BLL.AssemblyInfo.cs
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.BLL\obj\Debug\net8.0\FinTrack.BLL.csproj.CoreCompileInputs.cache
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.BLL\obj\Debug\net8.0\FinTrack.3226D387.Up2Date
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.BLL\obj\Debug\net8.0\FinTrack.BLL.dll
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.BLL\obj\Debug\net8.0\refint\FinTrack.BLL.dll
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.BLL\obj\Debug\net8.0\FinTrack.BLL.pdb
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.BLL\obj\Debug\net8.0\ref\FinTrack.BLL.dll

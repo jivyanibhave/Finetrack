@@ -1,0 +1,45 @@
+﻿@model Fin_Track.MVC.DTOs.DashboardVMDto
+
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+@if (Model == null)
+{
+    <div class="alert alert-danger">
+        Dashboard data not found.
+    </div>
+}
+else
+{
+    <h2>Dashboard</h2>
+
+    <table class="table table-bordered">
+
+        <tr>
+            <th>Total Income</th>
+            <td>@Model.TotalIncome</td>
+        </tr>
+
+        <tr>
+            <th>Total Expense</th>
+            <td>@Model.TotalExpense</td>
+        </tr>
+
+        <tr>
+            <th>Remaining Balance</th>
+            <td>@Model.Balance</td>
+        </tr>
+
+        <tr>
+            <th>Budget Limit</th>
+            <td>@Model.MonthlyBudget</td>
+        </tr>
+
+        <tr>
+            <th>Budget Spent</th>
+            <td>@Model.BudgetUsed</td>
+        </tr>
+
+    </table>
+}

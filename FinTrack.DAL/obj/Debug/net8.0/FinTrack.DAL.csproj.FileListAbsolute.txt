@@ -1,0 +1,14 @@
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.DAL\bin\Debug\net8.0\FinTrack.DAL.deps.json
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.DAL\bin\Debug\net8.0\FinTrack.DAL.runtimeconfig.json
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.DAL\bin\Debug\net8.0\FinTrack.DAL.dll
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.DAL\bin\Debug\net8.0\FinTrack.DAL.pdb
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.DAL\obj\Debug\net8.0\FinTrack.DAL.csproj.AssemblyReference.cache
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.DAL\obj\Debug\net8.0\FinTrack.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.DAL\obj\Debug\net8.0\FinTrack.DAL.AssemblyInfoInputs.cache
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.DAL\obj\Debug\net8.0\FinTrack.DAL.AssemblyInfo.cs
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.DAL\obj\Debug\net8.0\FinTrack.DAL.csproj.CoreCompileInputs.cache
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.DAL\obj\Debug\net8.0\FinTrack.DAL.dll
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.DAL\obj\Debug\net8.0\refint\FinTrack.DAL.dll
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.DAL\obj\Debug\net8.0\FinTrack.DAL.pdb
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.DAL\obj\Debug\net8.0\FinTrack.DAL.genruntimeconfig.cache
+D:\.NetProjects\Demo\Fin Track\Fin Track\FinTrack.DAL\obj\Debug\net8.0\ref\FinTrack.DAL.dll

@@ -1,0 +1,1429 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\controllers\\budgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\controllers\\budgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\views\\transaction\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\views\\transaction\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\dtos\\transactionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\dtos\\transactionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1035EA-C03A-4C8C-A90D-81696F0038B8}|Fin Track\\FinTrack.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1035EA-C03A-4C8C-A90D-81696F0038B8}|Fin Track\\FinTrack.csproj|solutionrelative:fin track\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1035EA-C03A-4C8C-A90D-81696F0038B8}|Fin Track\\FinTrack.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1035EA-C03A-4C8C-A90D-81696F0038B8}|Fin Track\\FinTrack.csproj|solutionrelative:fin track\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.bll\\dto\\budgetresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|solutionrelative:fintrack.bll\\dto\\budgetresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.bll\\dto\\budgetrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|solutionrelative:fintrack.bll\\dto\\budgetrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\views\\transaction\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\views\\transaction\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\dtos\\transactionvmrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\dtos\\transactionvmrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\views\\transaction\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\views\\transaction\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1035EA-C03A-4C8C-A90D-81696F0038B8}|Fin Track\\FinTrack.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1035EA-C03A-4C8C-A90D-81696F0038B8}|Fin Track\\FinTrack.csproj|solutionrelative:fin track\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.dal\\repository\\interface\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|solutionrelative:fintrack.dal\\repository\\interface\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.dal\\repository\\implementation\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|solutionrelative:fintrack.dal\\repository\\implementation\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.bll\\dto\\transactionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|solutionrelative:fintrack.bll\\dto\\transactionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1035EA-C03A-4C8C-A90D-81696F0038B8}|Fin Track\\FinTrack.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1035EA-C03A-4C8C-A90D-81696F0038B8}|Fin Track\\FinTrack.csproj|solutionrelative:fin track\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1035EA-C03A-4C8C-A90D-81696F0038B8}|Fin Track\\FinTrack.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1035EA-C03A-4C8C-A90D-81696F0038B8}|Fin Track\\FinTrack.csproj|solutionrelative:fin track\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1035EA-C03A-4C8C-A90D-81696F0038B8}|Fin Track\\FinTrack.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track\\controllers\\budgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1035EA-C03A-4C8C-A90D-81696F0038B8}|Fin Track\\FinTrack.csproj|solutionrelative:fin track\\controllers\\budgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\views\\budget\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\views\\budget\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.bll\\service\\implementation\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|solutionrelative:fintrack.bll\\service\\implementation\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.bll\\service\\implementation\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|solutionrelative:fintrack.bll\\service\\implementation\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\views\\budget\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\views\\budget\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.bll\\service\\implementation\\budgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|solutionrelative:fintrack.bll\\service\\implementation\\budgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\views\\budget\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\views\\budget\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\views\\budget\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\views\\budget\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\dtos\\dashboardvmdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\dtos\\dashboardvmdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\dtos\\transactioneditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\dtos\\transactioneditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\models\\transactionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\models\\transactionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\dtos\\categoryvmresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\dtos\\categoryvmresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.bll\\dto\\categoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|solutionrelative:fintrack.bll\\dto\\categoryresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\dtos\\budgetvmresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\dtos\\budgetvmresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.bll\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|solutionrelative:fintrack.bll\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.dal\\models\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|solutionrelative:fintrack.dal\\models\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\dtos\\registervmdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\dtos\\registervmdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.bll\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|solutionrelative:fintrack.bll\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.bll\\dto\\dashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|solutionrelative:fintrack.bll\\dto\\dashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\dtos\\categoryvmrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\dtos\\categoryvmrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.bll\\dto\\categoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|solutionrelative:fintrack.bll\\dto\\categoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\dtos\\budgetvmupdaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\dtos\\budgetvmupdaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.bll\\dto\\budgetupdaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|solutionrelative:fintrack.bll\\dto\\budgetupdaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\dtos\\budgetvmrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\dtos\\budgetvmrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\models\\uservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\models\\uservm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.dal\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|solutionrelative:fintrack.dal\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\models\\categoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\models\\categoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\models\\budgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\models\\budgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|solutionrelative:fintrack.dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|solutionrelative:fintrack.dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.bll\\service\\implementation\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|solutionrelative:fintrack.bll\\service\\implementation\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track.mvc\\fintrack.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F408332B-8ED3-4B5C-9281-B9ECA4053331}|Fin Track.MVC\\FinTrack.MVC.csproj|solutionrelative:fin track.mvc\\fintrack.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1035EA-C03A-4C8C-A90D-81696F0038B8}|Fin Track\\FinTrack.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B1035EA-C03A-4C8C-A90D-81696F0038B8}|Fin Track\\FinTrack.csproj|solutionrelative:fin track\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.bll\\service\\interface\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|solutionrelative:fintrack.bll\\service\\interface\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.bll\\dto\\transactioneditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|solutionrelative:fintrack.bll\\dto\\transactioneditdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.bll\\dto\\transactionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|solutionrelative:fintrack.bll\\dto\\transactionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1035EA-C03A-4C8C-A90D-81696F0038B8}|Fin Track\\FinTrack.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fin track\\fintrack.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B1035EA-C03A-4C8C-A90D-81696F0038B8}|Fin Track\\FinTrack.csproj|solutionrelative:fin track\\fintrack.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.bll\\service\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|solutionrelative:fintrack.bll\\service\\interface\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.bll\\service\\interface\\ibudgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|solutionrelative:fintrack.bll\\service\\interface\\ibudgetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.bll\\jet service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|solutionrelative:fintrack.bll\\jet service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.bll\\service\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|solutionrelative:fintrack.bll\\service\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.bll\\repo\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|solutionrelative:fintrack.bll\\repo\\dashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.dal\\repository\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|solutionrelative:fintrack.dal\\repository\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.dal\\repository\\implementation\\budgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|solutionrelative:fintrack.dal\\repository\\implementation\\budgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.dal\\fintrack.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|solutionrelative:fintrack.dal\\fintrack.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.dal\\repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|solutionrelative:fintrack.dal\\repository\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.bll\\service\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|solutionrelative:fintrack.bll\\service\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.dal\\repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|solutionrelative:fintrack.dal\\repository\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.dal\\data\\fintrackdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|solutionrelative:fintrack.dal\\data\\fintrackdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.bll\\jet service\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|solutionrelative:fintrack.bll\\jet service\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.bll\\service\\interface\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|solutionrelative:fintrack.bll\\service\\interface\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.bll\\repo\\idashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|solutionrelative:fintrack.bll\\repo\\idashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.dal\\repository\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|solutionrelative:fintrack.dal\\repository\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.dal\\repository\\interface\\ibudgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4773AC-FBF8-4CCC-89C4-51F664630C77}|FinTrack.DAL\\FinTrack.DAL.csproj|solutionrelative:fintrack.dal\\repository\\interface\\ibudgetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|d:\\.netprojects\\demo\\fin track\\fin track\\fintrack.bll\\fintrack.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DC7AF189-FD0C-4586-B166-4F646A6A9116}|FinTrack.BLL\\FinTrack.BLL.csproj|solutionrelative:fintrack.bll\\fintrack.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Fin Track.MVC\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-15T10:16:40.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionResponseDto.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\DTOs\\TransactionResponseDto.cs",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\DTOs\\TransactionResponseDto.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\DTOs\\TransactionResponseDto.cs",
+              "RelativeToolTip": "Fin Track.MVC\\DTOs\\TransactionResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T10:06:24.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\DTOs\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\DTOs\\LoginResponseDto.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\DTOs\\LoginResponseDto.cs",
+              "RelativeToolTip": "Fin Track.MVC\\DTOs\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T10:20:24.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Fin Track.MVC\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAUwEUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T10:00:52.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Fin Track.MVC\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:57:12.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BudgetController.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Controllers\\BudgetController.cs",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\Controllers\\BudgetController.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Controllers\\BudgetController.cs",
+              "RelativeToolTip": "Fin Track.MVC\\Controllers\\BudgetController.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAswJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:51:08.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track\\Program.cs",
+              "RelativeDocumentMoniker": "Fin Track\\Program.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track\\Program.cs",
+              "RelativeToolTip": "Fin Track\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwDsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:55:34.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\Transaction\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\Views\\Transaction\\Edit.cshtml",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\Transaction\\Edit.cshtml",
+              "RelativeToolTip": "Fin Track.MVC\\Views\\Transaction\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-15T11:35:53.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BudgetResponseDTO.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\DTO\\BudgetResponseDTO.cs",
+              "RelativeDocumentMoniker": "FinTrack.BLL\\DTO\\BudgetResponseDTO.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\DTO\\BudgetResponseDTO.cs",
+              "RelativeToolTip": "FinTrack.BLL\\DTO\\BudgetResponseDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T05:49:26.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BudgetRequestDTO.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\DTO\\BudgetRequestDTO.cs",
+              "RelativeDocumentMoniker": "FinTrack.BLL\\DTO\\BudgetRequestDTO.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\DTO\\BudgetRequestDTO.cs",
+              "RelativeToolTip": "FinTrack.BLL\\DTO\\BudgetRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T05:47:47.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Fin Track\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Fin Track\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T17:15:26.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\Transaction\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\Views\\Transaction\\Index.cshtml",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\Transaction\\Index.cshtml",
+              "RelativeToolTip": "Fin Track.MVC\\Views\\Transaction\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwDMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-15T11:34:39.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\Controllers\\TransactionController.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "Fin Track.MVC\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T10:03:36.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\Program.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Program.cs",
+              "RelativeToolTip": "Fin Track.MVC\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T10:07:53.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TransactionVMRequestDto.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\DTOs\\TransactionVMRequestDto.cs",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\DTOs\\TransactionVMRequestDto.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\DTOs\\TransactionVMRequestDto.cs",
+              "RelativeToolTip": "Fin Track.MVC\\DTOs\\TransactionVMRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:35:30.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\Transaction\\Create.cshtml",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\Views\\Transaction\\Create.cshtml",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\Transaction\\Create.cshtml",
+              "RelativeToolTip": "Fin Track.MVC\\Views\\Transaction\\Create.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-15T11:35:26.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\Transaction\\Details.cshtml",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\Views\\Transaction\\Details.cshtml",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\Transaction\\Details.cshtml",
+              "RelativeToolTip": "Fin Track.MVC\\Views\\Transaction\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-15T11:35:04.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Fin Track.MVC\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwFcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:37:05.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Fin Track.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwDIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-20T09:46:50.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "Fin Track\\Controllers\\TransactionController.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "Fin Track\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T17:16:13.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\Views\\User\\Login.cshtml",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "Fin Track.MVC\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwC4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-15T10:11:16.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Fin Track.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-15T12:32:47.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\Repository\\Interface\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "FinTrack.DAL\\Repository\\Interface\\ITransactionRepository.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\Repository\\Interface\\ITransactionRepository.cs",
+              "RelativeToolTip": "FinTrack.DAL\\Repository\\Interface\\ITransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:04:51.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\Repository\\Implementation\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "FinTrack.DAL\\Repository\\Implementation\\TransactionRepository.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\Repository\\Implementation\\TransactionRepository.cs",
+              "RelativeToolTip": "FinTrack.DAL\\Repository\\Implementation\\TransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T14:14:49.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TransactionRequestDto.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\DTO\\TransactionRequestDto.cs",
+              "RelativeDocumentMoniker": "FinTrack.BLL\\DTO\\TransactionRequestDto.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\DTO\\TransactionRequestDto.cs",
+              "RelativeToolTip": "FinTrack.BLL\\DTO\\TransactionRequestDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T06:30:52.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Fin Track\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Fin Track\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T17:19:08.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Fin Track\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Fin Track\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T17:18:01.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BudgetController.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track\\Controllers\\BudgetController.cs",
+              "RelativeDocumentMoniker": "Fin Track\\Controllers\\BudgetController.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track\\Controllers\\BudgetController.cs",
+              "RelativeToolTip": "Fin Track\\Controllers\\BudgetController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T17:17:17.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\Budget\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\Views\\Budget\\Index.cshtml",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\Budget\\Index.cshtml",
+              "RelativeToolTip": "Fin Track.MVC\\Views\\Budget\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwCUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-15T11:31:54.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\Service\\Implementation\\TransactionService.cs",
+              "RelativeDocumentMoniker": "FinTrack.BLL\\Service\\Implementation\\TransactionService.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\Service\\Implementation\\TransactionService.cs",
+              "RelativeToolTip": "FinTrack.BLL\\Service\\Implementation\\TransactionService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwC4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T14:24:56.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DashboardService.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\Service\\Implementation\\DashboardService.cs",
+              "RelativeDocumentMoniker": "FinTrack.BLL\\Service\\Implementation\\DashboardService.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\Service\\Implementation\\DashboardService.cs",
+              "RelativeToolTip": "FinTrack.BLL\\Service\\Implementation\\DashboardService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T14:26:30.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Fin Track.MVC\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-15T10:12:11.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\Views\\User\\Register.cshtml",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "Fin Track.MVC\\Views\\User\\Register.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAIAwwBoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-15T10:11:42.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\Budget\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\Views\\Budget\\Edit.cshtml",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\Budget\\Edit.cshtml",
+              "RelativeToolTip": "Fin Track.MVC\\Views\\Budget\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-15T11:33:24.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BudgetService.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\Service\\Implementation\\BudgetService.cs",
+              "RelativeDocumentMoniker": "FinTrack.BLL\\Service\\Implementation\\BudgetService.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\Service\\Implementation\\BudgetService.cs",
+              "RelativeToolTip": "FinTrack.BLL\\Service\\Implementation\\BudgetService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAUwCkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T14:25:32.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\Budget\\Create.cshtml",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\Views\\Budget\\Create.cshtml",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\Budget\\Create.cshtml",
+              "RelativeToolTip": "Fin Track.MVC\\Views\\Budget\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-15T11:32:57.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\Budget\\Details.cshtml",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\Views\\Budget\\Details.cshtml",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\Budget\\Details.cshtml",
+              "RelativeToolTip": "Fin Track.MVC\\Views\\Budget\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-15T11:32:28.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DashboardVMDto.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\DTOs\\DashboardVMDto.cs",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\DTOs\\DashboardVMDto.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\DTOs\\DashboardVMDto.cs",
+              "RelativeToolTip": "Fin Track.MVC\\DTOs\\DashboardVMDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:34:44.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Fin Track.MVC\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-15T10:14:45.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Fin Track.MVC\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-15T10:13:28.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TransactionEditDto.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\DTOs\\TransactionEditDto.cs",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\DTOs\\TransactionEditDto.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\DTOs\\TransactionEditDto.cs",
+              "RelativeToolTip": "Fin Track.MVC\\DTOs\\TransactionEditDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T10:06:47.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TransactionVM.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Models\\TransactionVM.cs",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\Models\\TransactionVM.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Models\\TransactionVM.cs",
+              "RelativeToolTip": "Fin Track.MVC\\Models\\TransactionVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:27:47.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CategoryVMResponseDto.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\DTOs\\CategoryVMResponseDto.cs",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\DTOs\\CategoryVMResponseDto.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\DTOs\\CategoryVMResponseDto.cs",
+              "RelativeToolTip": "Fin Track.MVC\\DTOs\\CategoryVMResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:58:58.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CategoryResponseDto.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\DTO\\CategoryResponseDto.cs",
+              "RelativeDocumentMoniker": "FinTrack.BLL\\DTO\\CategoryResponseDto.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\DTO\\CategoryResponseDto.cs",
+              "RelativeToolTip": "FinTrack.BLL\\DTO\\CategoryResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T06:14:24.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BudgetVMResponseDTO.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\DTOs\\BudgetVMResponseDTO.cs",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\DTOs\\BudgetVMResponseDTO.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\DTOs\\BudgetVMResponseDTO.cs",
+              "RelativeToolTip": "Fin Track.MVC\\DTOs\\BudgetVMResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T09:56:04.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "FinTrack.BLL\\DTO\\UserDto.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\DTO\\UserDto.cs",
+              "RelativeToolTip": "FinTrack.BLL\\DTO\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T10:05:56.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Budget.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\Models\\Budget.cs",
+              "RelativeDocumentMoniker": "FinTrack.DAL\\Models\\Budget.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\Models\\Budget.cs",
+              "RelativeToolTip": "FinTrack.DAL\\Models\\Budget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:49:10.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\DTO\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "FinTrack.BLL\\DTO\\RegisterDto.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\DTO\\RegisterDto.cs",
+              "RelativeToolTip": "FinTrack.BLL\\DTO\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T10:59:59.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DashboardDto.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\DTO\\DashboardDto.cs",
+              "RelativeDocumentMoniker": "FinTrack.BLL\\DTO\\DashboardDto.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\DTO\\DashboardDto.cs",
+              "RelativeToolTip": "FinTrack.BLL\\DTO\\DashboardDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:10:48.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RegisterVMDto.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\DTOs\\RegisterVMDto.cs",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\DTOs\\RegisterVMDto.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\DTOs\\RegisterVMDto.cs",
+              "RelativeToolTip": "Fin Track.MVC\\DTOs\\RegisterVMDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:36:12.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CategoryVMRequestDto.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\DTOs\\CategoryVMRequestDto.cs",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\DTOs\\CategoryVMRequestDto.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\DTOs\\CategoryVMRequestDto.cs",
+              "RelativeToolTip": "Fin Track.MVC\\DTOs\\CategoryVMRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:34:10.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CategoryRequestDto.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\DTO\\CategoryRequestDto.cs",
+              "RelativeDocumentMoniker": "FinTrack.BLL\\DTO\\CategoryRequestDto.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\DTO\\CategoryRequestDto.cs",
+              "RelativeToolTip": "FinTrack.BLL\\DTO\\CategoryRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T06:13:49.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "BudgetVMUpdateRequestDTO.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\DTOs\\BudgetVMUpdateRequestDTO.cs",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\DTOs\\BudgetVMUpdateRequestDTO.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\DTOs\\BudgetVMUpdateRequestDTO.cs",
+              "RelativeToolTip": "Fin Track.MVC\\DTOs\\BudgetVMUpdateRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:33:40.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "BudgetUpdateRequestDTO.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\DTO\\BudgetUpdateRequestDTO.cs",
+              "RelativeDocumentMoniker": "FinTrack.BLL\\DTO\\BudgetUpdateRequestDTO.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\DTO\\BudgetUpdateRequestDTO.cs",
+              "RelativeToolTip": "FinTrack.BLL\\DTO\\BudgetUpdateRequestDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T16:20:35.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "BudgetVMRequestDTO.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\DTOs\\BudgetVMRequestDTO.cs",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\DTOs\\BudgetVMRequestDTO.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\DTOs\\BudgetVMRequestDTO.cs",
+              "RelativeToolTip": "Fin Track.MVC\\DTOs\\BudgetVMRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:32:44.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UserVM.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Models\\UserVM.cs",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\Models\\UserVM.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Models\\UserVM.cs",
+              "RelativeToolTip": "Fin Track.MVC\\Models\\UserVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:28:01.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "FinTrack.DAL\\Models\\Transaction.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\Models\\Transaction.cs",
+              "RelativeToolTip": "FinTrack.DAL\\Models\\Transaction.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:47:54.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "FinTrack.MVC.csproj",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\FinTrack.MVC.csproj",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\FinTrack.MVC.csproj",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\FinTrack.MVC.csproj",
+              "RelativeToolTip": "Fin Track.MVC\\FinTrack.MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-13T06:35:19.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Fin Track.MVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:29:43.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CategoryVM.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Models\\CategoryVM.cs",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\Models\\CategoryVM.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Models\\CategoryVM.cs",
+              "RelativeToolTip": "Fin Track.MVC\\Models\\CategoryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:27:29.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "BudgetVM.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Models\\BudgetVM.cs",
+              "RelativeDocumentMoniker": "Fin Track.MVC\\Models\\BudgetVM.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track.MVC\\Models\\BudgetVM.cs",
+              "RelativeToolTip": "Fin Track.MVC\\Models\\BudgetVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:27:13.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FinTrack.DAL\\Models\\User.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\Models\\User.cs",
+              "RelativeToolTip": "FinTrack.DAL\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:47:11.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "FinTrack.DAL\\Models\\Category.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\Models\\Category.cs",
+              "RelativeToolTip": "FinTrack.DAL\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:48:24.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\Service\\Implementation\\CategoryService.cs",
+              "RelativeDocumentMoniker": "FinTrack.BLL\\Service\\Implementation\\CategoryService.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\Service\\Implementation\\CategoryService.cs",
+              "RelativeToolTip": "FinTrack.BLL\\Service\\Implementation\\CategoryService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T14:26:06.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\Service\\Interface\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "FinTrack.BLL\\Service\\Interface\\ITransactionService.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\Service\\Interface\\ITransactionService.cs",
+              "RelativeToolTip": "FinTrack.BLL\\Service\\Interface\\ITransactionService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAywBIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:09:05.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "TransactionEditDto.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\DTO\\TransactionEditDto.cs",
+              "RelativeDocumentMoniker": "FinTrack.BLL\\DTO\\TransactionEditDto.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\DTO\\TransactionEditDto.cs",
+              "RelativeToolTip": "FinTrack.BLL\\DTO\\TransactionEditDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T10:58:17.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track\\appsettings.json",
+              "RelativeDocumentMoniker": "Fin Track\\appsettings.json",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track\\appsettings.json",
+              "RelativeToolTip": "Fin Track\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-11T05:55:46.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "TransactionResponseDto.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\DTO\\TransactionResponseDto.cs",
+              "RelativeDocumentMoniker": "FinTrack.BLL\\DTO\\TransactionResponseDto.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\DTO\\TransactionResponseDto.cs",
+              "RelativeToolTip": "FinTrack.BLL\\DTO\\TransactionResponseDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T06:31:06.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "FinTrack.csproj",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track\\FinTrack.csproj",
+              "RelativeDocumentMoniker": "Fin Track\\FinTrack.csproj",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\Fin Track\\FinTrack.csproj",
+              "RelativeToolTip": "Fin Track\\FinTrack.csproj",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-11T05:53:11.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\Service\\Interface\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "FinTrack.BLL\\Service\\Interface\\ICategoryService.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\Service\\Interface\\ICategoryService.cs",
+              "RelativeToolTip": "FinTrack.BLL\\Service\\Interface\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:10:06.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IBudgetService.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\Service\\Interface\\IBudgetService.cs",
+              "RelativeDocumentMoniker": "FinTrack.BLL\\Service\\Interface\\IBudgetService.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\Service\\Interface\\IBudgetService.cs",
+              "RelativeToolTip": "FinTrack.BLL\\Service\\Interface\\IBudgetService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:09:40.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\JET Service\\JwtService.cs",
+              "RelativeDocumentMoniker": "FinTrack.BLL\\JET Service\\JwtService.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\JET Service\\JwtService.cs",
+              "RelativeToolTip": "FinTrack.BLL\\JET Service\\JwtService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwCsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T14:07:32.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\Service\\Implementation\\UserService.cs",
+              "RelativeDocumentMoniker": "FinTrack.BLL\\Service\\Implementation\\UserService.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\Service\\Implementation\\UserService.cs",
+              "RelativeToolTip": "FinTrack.BLL\\Service\\Implementation\\UserService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T14:01:37.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "DashboardRepository.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\Repo\\DashboardRepository.cs",
+              "RelativeDocumentMoniker": "FinTrack.BLL\\Repo\\DashboardRepository.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\Repo\\DashboardRepository.cs",
+              "RelativeToolTip": "FinTrack.BLL\\Repo\\DashboardRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T14:17:34.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\Repository\\Implementation\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "FinTrack.DAL\\Repository\\Implementation\\CategoryRepository.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\Repository\\Implementation\\CategoryRepository.cs",
+              "RelativeToolTip": "FinTrack.DAL\\Repository\\Implementation\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T14:16:49.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "BudgetRepository.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\Repository\\Implementation\\BudgetRepository.cs",
+              "RelativeDocumentMoniker": "FinTrack.DAL\\Repository\\Implementation\\BudgetRepository.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\Repository\\Implementation\\BudgetRepository.cs",
+              "RelativeToolTip": "FinTrack.DAL\\Repository\\Implementation\\BudgetRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA4wBkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T14:15:56.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "FinTrack.DAL.csproj",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\FinTrack.DAL.csproj",
+              "RelativeDocumentMoniker": "FinTrack.DAL\\FinTrack.DAL.csproj",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\FinTrack.DAL.csproj",
+              "RelativeToolTip": "FinTrack.DAL\\FinTrack.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-11T05:36:25.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\Repository\\Implementation\\UserRepository.cs",
+              "RelativeDocumentMoniker": "FinTrack.DAL\\Repository\\Implementation\\UserRepository.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\Repository\\Implementation\\UserRepository.cs",
+              "RelativeToolTip": "FinTrack.DAL\\Repository\\Implementation\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T14:13:44.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\Service\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "FinTrack.BLL\\Service\\Interface\\IUserService.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\Service\\Interface\\IUserService.cs",
+              "RelativeToolTip": "FinTrack.BLL\\Service\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T10:07:51.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\Repository\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "FinTrack.DAL\\Repository\\Interface\\IUserRepository.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\Repository\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "FinTrack.DAL\\Repository\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:04:23.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "FinTrackDbContext.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\Data\\FinTrackDbContext.cs",
+              "RelativeDocumentMoniker": "FinTrack.DAL\\Data\\FinTrackDbContext.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\Data\\FinTrackDbContext.cs",
+              "RelativeToolTip": "FinTrack.DAL\\Data\\FinTrackDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T05:50:06.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\JET Service\\IJwtService.cs",
+              "RelativeDocumentMoniker": "FinTrack.BLL\\JET Service\\IJwtService.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\JET Service\\IJwtService.cs",
+              "RelativeToolTip": "FinTrack.BLL\\JET Service\\IJwtService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAASwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T14:06:37.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "IDashboardService.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\Service\\Interface\\IDashboardService.cs",
+              "RelativeDocumentMoniker": "FinTrack.BLL\\Service\\Interface\\IDashboardService.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\Service\\Interface\\IDashboardService.cs",
+              "RelativeToolTip": "FinTrack.BLL\\Service\\Interface\\IDashboardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:12:53.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "IDashboardRepository.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\Repo\\IDashboardRepository.cs",
+              "RelativeDocumentMoniker": "FinTrack.BLL\\Repo\\IDashboardRepository.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\Repo\\IDashboardRepository.cs",
+              "RelativeToolTip": "FinTrack.BLL\\Repo\\IDashboardRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:12:28.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\Repository\\Interface\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "FinTrack.DAL\\Repository\\Interface\\ICategoryRepository.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\Repository\\Interface\\ICategoryRepository.cs",
+              "RelativeToolTip": "FinTrack.DAL\\Repository\\Interface\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:07:10.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "IBudgetRepository.cs",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\Repository\\Interface\\IBudgetRepository.cs",
+              "RelativeDocumentMoniker": "FinTrack.DAL\\Repository\\Interface\\IBudgetRepository.cs",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.DAL\\Repository\\Interface\\IBudgetRepository.cs",
+              "RelativeToolTip": "FinTrack.DAL\\Repository\\Interface\\IBudgetRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T12:06:25.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "FinTrack.BLL.csproj",
+              "DocumentMoniker": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\FinTrack.BLL.csproj",
+              "RelativeDocumentMoniker": "FinTrack.BLL\\FinTrack.BLL.csproj",
+              "ToolTip": "D:\\.NetProjects\\Demo\\Fin Track\\Fin Track\\FinTrack.BLL\\FinTrack.BLL.csproj",
+              "RelativeToolTip": "FinTrack.BLL\\FinTrack.BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-16T05:58:19.151Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

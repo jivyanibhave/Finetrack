@@ -1,0 +1,35 @@
+﻿@model List<Fin_Track.MVC.DTOs.CategoryVMResponseDto>
+
+@{
+    ViewData["Title"] = "Categories";
+}
+
+<h2>Category List</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">
+        Add New Category
+    </a>
+</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Category Id</th>
+            <th>Category Name</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @if (Model != null)
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.CategoryId</td>
+                    <td>@item.CategoryName</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

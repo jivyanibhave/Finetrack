@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Fin Track\\FinTrack.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Fin Track.MVC\\FinTrack.MVC.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

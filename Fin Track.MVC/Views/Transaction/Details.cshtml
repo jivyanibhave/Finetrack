@@ -1,0 +1,37 @@
+﻿@model Fin_Track.MVC.DTOs.TransactionResponseDto
+
+<h2>Transaction Details</h2>
+
+<table class="table table-bordered">
+
+    <tr>
+        <th>Amount</th>
+        <td>@Model.Amount</td>
+    </tr>
+
+    <tr>
+        <th>Description</th>
+        <td>@Model.Description</td>
+    </tr>
+
+    <tr>
+        <th>Transaction Date</th>
+        <td>@Model.TransactionDate.ToShortDateString()</td>
+    </tr>
+
+    <tr>
+        <th>Type</th>
+        <td>@Model.Type</td>
+    </tr>
+
+    <tr>
+        <th>Category</th>
+        <td>@Model.CategoryName</td>
+    </tr>
+
+</table>
+
+<a asp-action="Index"
+   class="btn btn-secondary">
+    Back
+</a>

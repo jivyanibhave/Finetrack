@@ -1,0 +1,43 @@
+﻿@model Fin_Track.MVC.DTOs.RegisterVMDto
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h2>Register</h2>
+
+<form asp-action="Register" method="post">
+
+    <div>
+        <label>Full Name</label>
+        <input asp-for="FullName" class="form-control" />
+    </div>
+
+    <br />
+
+    <div>
+        <label>Email</label>
+        <input asp-for="Email" class="form-control" />
+    </div>
+
+    <br />
+
+    <div>
+        <label>Password</label>
+        <input asp-for="PasswordHash" type="password"
+               class="form-control" />
+    </div>
+
+    <br />
+
+    <button type="submit" class="btn btn-success">
+        Register
+    </button>
+
+</form>
+
+@if (ViewBag.Error != null)
+{
+    <br />
+    <span class="text-danger">@ViewBag.Error</span>
+}

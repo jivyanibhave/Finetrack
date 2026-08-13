@@ -1,0 +1,67 @@
+﻿@{
+    ViewData["Title"] = "FinTrack Dashboard";
+}
+
+<div class="text-center mb-5">
+    <h1 class="display-4">Welcome to FinTrack</h1>
+    <p class="lead">Manage your Personal Finance efficiently.</p>
+</div>
+
+<div class="container">
+    <div class="row g-4">
+
+        <!-- Category -->
+        <div class="col-md-4">
+            <div class="card shadow p-3">
+                <h4>Categories</h4>
+                <p>Manage your income and expense categories.</p>
+                <a asp-controller="Category"
+                   asp-action="Index"
+                   class="btn btn-success">
+                    View Categories
+                </a>
+            </div>
+        </div>
+
+        <!-- Budget -->
+        <div class="col-md-4">
+            <div class="card shadow p-3">
+                <h4>Budgets</h4>
+                <p>Create and monitor your budgets.</p>
+                <a asp-controller="Budget"
+                   asp-action="Index"
+                   class="btn btn-warning">
+                    View Budgets
+                </a>
+            </div>
+        </div>
+
+        <!-- Transactions -->
+        <div class="col-md-4">
+            <div class="card shadow p-3">
+                <h4>Transactions</h4>
+                <p>Track all your income and expenses.</p>
+                <a asp-controller="Transaction"
+                   asp-action="Index"
+                   asp-route-userId="1"
+                   class="btn btn-info">
+                    View Transactions
+                </a>
+            </div>
+        </div>
+
+        <!-- Dashboard -->
+        <div class="col-md-4">
+            <div class="card shadow p-3">
+                <h4>Dashboard</h4>
+                <p>View your financial summary and statistics.</p>
+                <a asp-controller="Dashboard"
+                   asp-action="Index"
+                   class="btn btn-dark">
+                    Open Dashboard
+                </a>
+            </div>
+        </div>
+
+    </div>
+</div>
